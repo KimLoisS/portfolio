@@ -373,9 +373,9 @@ nav {
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 80px;
-    align-items: center;
+    grid-template-columns: 320px 1fr 1fr;
+    gap: 48px;
+    align-items: start;
 }
 
 .about-photo-wrapper {
