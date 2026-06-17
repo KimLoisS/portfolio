@@ -694,3 +694,8 @@ footer {
         height: 1300px;
     }
 }
+
+.demo-section .section-subtitle {
+    margin-left: auto;
+    margin-right: auto;
+}
