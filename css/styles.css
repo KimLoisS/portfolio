@@ -982,3 +982,10 @@ body::after {
     font-weight: 500;
 }
 
+.demo-section,
+.build-process {
+    background: rgba(10, 10, 15, 0.55);
+    backdrop-filter: blur(10px);
+    border-radius: 24px;
+    border: 1px solid var(--dark-border);
+}
